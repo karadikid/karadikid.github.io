@@ -1,10 +1,10 @@
-## Welcome to Virtual Nexus Github site for Gouthum Karadi
 
- [Image](https://github.com/karadikid/karadikid.github.io/blob/master/VN_Logo.png?raw=true)
+[![VirtualNexusLogo Logo](VN_Logo.png)](http://virtualnex.us)
 
-Please enjoy any of the repositories at KaradiKid.github.io/repositoryName
+# Please find Gouthum "Karate" Karadi's Professional Github Page
+- This page is the root of KaradiKid's reinvention post General Assembly Boot Camp
 
-### There are also many sample projects from GA bootcamp
+## There are also many sample projects from GA bootcamp
 
 Week 1
 http://yoga.ommygod.com
@@ -18,8 +18,9 @@ Week 4
 [S3 Yoga Flash Cards](url)http://cards.ommygod.com
 https://karadikid.github.io/flash-cards
 
-```markdown
-Clone Repositories Using standard git clone https:// or ssh://
+
+Please enjoy any of the repositories at KaradiKid.github.io/repositoryName
+
 
 # Licensing
 ## WTFPL
@@ -32,16 +33,3 @@ Clone Repositories Using standard git clone https:// or ssh://
 2. Please submit pull requests as needed.
 
 **Bold** and _Italic_ and `Code` text
-
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karadikid/karadikid.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
