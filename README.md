@@ -1,29 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to Virtual Nexus Github site for Gouthum Karadi
 
-You can use the [editor on GitHub](https://github.com/karadikid/karadikid.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Please enjoy any of the repositories at KaradiKid.github.io/repositoryName
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### There are also many sample projects from GA bootcamp
 
-### Markdown
+Week 1
+http://yoga.ommygod.com
+https://karadikid.github.io/sivananda-cards
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Week 3
+https://karadikid.github.io/shodan-api
+(Requires API Key)
+
+Week 4
+[S3 Yoga Flash Cards](url)http://cards.ommygod.com
+https://karadikid.github.io/flash-cards
 
 ```markdown
-Syntax highlighted code block
+Clone Repositories Using standard git clone https:// or ssh://
 
-# Header 1
-## Header 2
-### Header 3
+# Licensing
+## WTFPL
+### Apache
 
-- Bulleted
-- List
+- Share them
+- Modify them
 
-1. Numbered
-2. List
+1. Have Fun
+2. Please submit pull requests as needed.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+ and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
