@@ -10,7 +10,7 @@ Week 1 Yoga Hover Cards
 
 [Yoga Cards Hover - AWS S3 Hosted](http://yoga.ommygod.com)
 
-[Github Default Hosting](https://karadikid.github.io/sivananda-cards)
+[Github Default Hosting](https://karadikid.github.io/sivananda-card)
 
 Week 3 Shodan API Search with Strip Maps from Here
 
