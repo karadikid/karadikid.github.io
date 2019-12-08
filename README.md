@@ -14,7 +14,7 @@ Week 1 Yoga Hover Cards
 
 Week 3 Shodan API Search with Strip Maps from Here
 
-[Shodan API Search, Requires Key](https://karadikid.github.io/shodan-api)
+[Shodan API Search, Requires Key](https://karadikid.github.io/shodan-api-js)
 
 Week 4 Yoga Flash Cards with Scoring
 
