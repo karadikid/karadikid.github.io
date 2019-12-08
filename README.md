@@ -7,14 +7,17 @@
 ## There are also many sample projects from GA bootcamp
 
 Week 1 Yoga Hover Cards
+
 [Yoga Cards Hover - AWS S3 Hosted](http://yoga.ommygod.com)
 
 [Github Default Hosting](https://karadikid.github.io/sivananda-cards)
 
 Week 3 Shodan API Search with Strip Maps from Here
+
 [Shodan API Search, Requires Key](https://karadikid.github.io/shodan-api)
 
 Week 4 Yoga Flash Cards with Scoring
+
 [Yoga Flash Cards - AWS S3 Hosted](http://cards.ommygod.com)
 
 [Github Default Hosting](https://karadikid.github.io/flash-cards)
