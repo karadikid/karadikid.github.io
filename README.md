@@ -1,5 +1,7 @@
 ## Welcome to Virtual Nexus Github site for Gouthum Karadi
 
+ [Image](https://github.com/karadikid/karadikid.github.io/blob/master/VN_Logo.png?raw=true)
+
 Please enjoy any of the repositories at KaradiKid.github.io/repositoryName
 
 ### There are also many sample projects from GA bootcamp
@@ -31,7 +33,7 @@ Clone Repositories Using standard git clone https:// or ssh://
 
 **Bold** and _Italic_ and `Code` text
 
- and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
