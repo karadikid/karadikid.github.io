@@ -35,5 +35,3 @@ Please enjoy any of the repositories at KaradiKid.github.io/repositoryName
 
 1. Have Fun
 2. Please submit pull requests as needed.
-
-**Bold** and _Italic_ and `Code` text
