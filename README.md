@@ -22,6 +22,16 @@ Week 4 Yoga Flash Cards with Scoring
 
 [Github Default Hosting](https://karadikid.github.io/flash-cards)
 
+Week 5-6 Yoga API and Website MERN STACK
+
+YOGA API Using Mongo/Mongoose, Express and Node
+[Yoga API - Heroku Hosted](https://yogapi.herokuapp.com)
+[Yoga API Github](https://github.com/karadikid/yoga-api)
+
+Yoga Asanas Browser Web App using React
+[Asana Browser - AWS Amplify Serverless Hosted CI/CD](https://asanas.ommygod.com/)
+[Asana Browser - Github Repo](https://github.com/karadikid/asana-browser)
+
 
 Please enjoy any of the repositories at KaradiKid.github.io/repositoryName
 
