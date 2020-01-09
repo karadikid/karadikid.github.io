@@ -3,6 +3,15 @@
 
 # Please find Gouthum "Karate" Karadi's Professional Github Page
 - This page is the root of KaradiKid's reinvention post General Assembly Boot Camp
+- It includes varying technologies as Karadi progressed from old school programmer to new school:
+
+-- Javascript
+-- Node
+-- React
+-- Serverless (Already an expert in cloud)
+-- MongoDB
+-- Python
+-- SQL (Expert already in RDBMS)
 
 ## There are also many sample projects from GA bootcamp
 
