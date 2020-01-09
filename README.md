@@ -37,6 +37,7 @@
 ![yoga-flash-cards-screenshot](./Yoga-Flash-Cards.png)
 
 [Yoga Flash Cards - AWS S3 Hosted](http://cards.ommygod.com)
+
 [Github Default Hosting](https://karadikid.github.io/flash-cards)
 
 ### Week 5-6 Yoga API and Website MERN STACK
@@ -45,12 +46,14 @@
 ![Yoga-API-RAW](./yoga-api-raw-screenshot.png)
 
 [Yoga API - Heroku Hosted](https://yogapi.herokuapp.com)
+
 [Yoga API Github](https://github.com/karadikid/yoga-api)
 
 #### Yoga Asanas Browser Web App using React
 ![Asana-Browser-Screenshot](./asana-browser-screenshot.png)
 
 [Asana Browser - AWS Amplify Serverless Hosted CI/CD](https://asanas.ommygod.com/)
+
 [Asana Browser - Github Repo](https://github.com/karadikid/asana-browser)
 
 
